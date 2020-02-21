@@ -1,0 +1,159 @@
+<! DOCTYPE html >
+html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tabla de mosh</title>
+    <link rel="stylesheet" type="text/css" href="tabla.css">
+  </head>
+       <body>
+           <table>
+                <thead>
+                     <tr>
+                       <th>dureza</th><th>imagen</th>
+                     </tr>
+                        <tr class"1">
+                          <td>1</td><td><img src="mineral+talco" alt="talco"></td>
+                        </tr>
+                        <tr class"2">
+                          <td>2</td><td><img src="mineral+yeso" alt="yeso"></td>
+                        </tr>
+                         <tr class"3">
+                          <td>3</td><td><img src="mineral+calcita" alt="calcita"></td>
+                        </tr>
+                         <tr class"4">
+                          <td>4</td><td><img src="mineral+fluorita" alt="fluorita"></td>
+                        </tr>
+                         <tr class"5">
+                          <td>5</td><td><img src="mineral+apatito" alt="apatito"></td>
+                        </tr>
+                         <tr class"6">
+                          <td>6</td><td><img src="mineral+ortosa" alt="ortosa"></td>
+                        </tr>
+                         <tr class"7">
+                          <td>7</td><td><img src="mineral+cuarzo" alt="cuarzo"></td>
+                        </tr>
+                         <tr class"8">
+                          <td>8</td><td><img src="mineral+topacio" alt="topacio"></td>
+                        </tr>
+                         <tr class"9">
+                          <td>9</td><td><img src="mineral+corindon" alt="corindon"></td>
+                        </tr>
+                         <tr class"10">
+                          <td>10</td><td><img src="mineral+diamante" alt="diamante"></td>
+                        </tr>
+                </thead>
+           </table>
+      
+   <body>
+</html>
+
+
+.class 1{
+  border: 15px solid #F8F9F9;
+  background: #FF33E9;
+  padding: 20px solid #F8F9F9;
+  margin: 10px solid #F8F9F9;
+}
+#mineral+talco{
+  width: 15px
+  height: 15px
+  }
+     
+.class 2{
+  border: 15px solid #EBEDEF;
+  background: #FF33E9;
+  padding: 20px solid #EBEDEF;
+  margin: 10px solid #EBEDEF;
+}
+#mineral+yeso{
+  width: 15px
+  height: 15px
+  }
+
+.class 3{
+  border: 15px solid #D6DBDF;
+  background: #FF33E9;
+  padding: 20px solid #D6DBDF;
+  margin: 10px solid #D6DBDF;
+}
+#mineral+calcita{
+  width: 15px
+  height: 15px
+  }
+     
+.class 4{
+  border: 15px solid #AEB6BF;
+  background: #FF33E9;
+  padding: 20px solid #AEB6BF;
+  margin: 10px solid #AEB6BF;
+}
+#mineral+fluorita{
+  width: 15px
+  height: 15px
+  }
+
+.class 5{
+  border: 15px solid #85929E;
+  background: #FF33E9;
+  padding: 20px solid #85929E;
+  margin: 10px solid #85929E;
+}
+#mineral+apatito{
+  width: 15px
+  height: 15px
+  }
+     
+.class 6{
+  border: 15px solid #2E4053;
+  background: #FF33E9;
+  padding: 20px solid #2E4053;
+  margin: 10px solid #2E4053;
+}
+#mineral+ortosa{
+  width: 15px
+  height: 15px
+  }
+
+.class 7{
+  border: 15px solid #283747;
+  background: #283747
+  padding: 20px solid #283747;
+  margin: 10px solid #283747;
+}
+#mineral+cuarzo{
+  width: 15px
+  height: 15px
+  }
+     
+.class 8{
+  border: 15px solid #212F3C;
+  background: #212F3C;
+  padding: 20px solid #212F3C;
+  margin: 10px solid #212F3C;
+}
+#mineral+topacio{
+  width: 15px
+  height: 15px
+  }
+
+.class 9{
+  border: 15px solid #212F3D;
+  background: #212F3D;
+  padding: 20px solid #212F3D;
+  margin: 10px solid #212F3D;
+}
+#mineral+corindon{
+  width: 15px
+  height: 15px
+  }
+     
+.class 10{
+  border: 15px solid #17202A;
+  background: #FF33E9;
+  padding: 20px solid #17202A;
+  margin: 10px solid #17202A;
+}
+#mineral+diamante{
+  width: 15px
+  height: 15px
+  }                   
