@@ -1,0 +1,63 @@
+<! DOCTYPE html >
+html>
+  <head>
+    <meta charset="utf-8">
+    <title>Receta de albondigas de bacalao</title>
+    <link rel="stylesheet" href="estilos.css">
+  </head>
+       <body>
+           <h1>Albondigas de bacalao</h1>
+           <img src="albondigas-de-bacalao.jpg" width="200" height="125" alt="albondigas de bacalao.">
+           <h2>Ingredientes</h2>
+             <ul>
+               <li total-cantidad="200g">Bacalao desalao</li>
+               <li total-cantidad="60" total-lacteos>Mantequilla</li>
+               <li total-cantidad="70">Harina de trigo</li>
+               <li total-cantidad="500ml" total-lacteos=De leche</li>
+               <li total-cantidad="2" total-vegetal"dos dientes">Ajo</li>
+               <li total-cantidad="30g" total-vegetal Perejil picado</li>
+               <li total-cantidad="1" Vaso de aceite de freir</li>
+               <li total-cantidad="1" Pizca de sal</li>
+               <li total-cantidad="2" Ajos</li>
+               <li total-cantidad="1" Paquete de pan rallado</li>
+             <ul>
+             <form>
+                 <p>1 desalar el bacalao y pelar y picar los ajos.2 calentar sarten a medio fuego con la mantequilla y sofrìe el   ajo.3 añade el bacalo y mezclalo bien con los ingredientes.4 añade harina, mezcla y espera tres minutos.5 leche en un jarrita y ve añadiendola poco a poco removiendo.6 añade el perejil picado y mezcla, pon la masa en una fuente y deja reposar 3 minutos. 7 pon un bol con pan rallado y bate dos huevos en otro bol, usa una cuchara para dar forma a la masa. 8 finalmente frie las albondigas en una sartes con aceite y listas para comer.
+                 <p>
+               <div>
+                  <label for=”Preguntas o sugerencias”>Deja tu pregunta o sugerencia:</label>
+                  <textarea id=”comentanos”></textarea>
+               </div>
+               <input type=”submit” value=”Enviar”>
+             </form>
+        </body>
+</html>
+
+body{
+	font-family: verdana;
+}
+
+h1{
+	color:#0000FF;
+	font-size; 15px;
+}
+
+h2{
+	color:#0000FF;
+	font-size; 15px
+}
+
+/* Todos los elementos con atributo "total-lacteos" tendrán el texto en yellow */
+[total lacteos] {
+	color: yellow;
+}
+
+/* Todos los elementos con atributo "total-vegetal" tendrán el texto en green */
+[total vegetal] {
+	color: green;
+}
+
+* Todos los elementos que tengan el atributo data-vegetal al valor dos dientes tendrán otro color verde */
+[total-vegetal"dos dientes"] {
+	background-color: #27AE60;
+}
