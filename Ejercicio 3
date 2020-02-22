@@ -1,0 +1,22 @@
+<! DOCTYPE html >
+html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tabla de mosh</title>
+    <link rel="stylesheet" type="text/css" href="combinar selectores.css">
+  </head>
+       <body>
+          <div>
+            <p>Equipo</p>
+            <article>
+              <p>mercedes es el mejor equipo de la f1</p>
+            <article>
+            <p>tiene el mejor equipo de ingenieros</p>
+            <p>y el mejor piloto</p>
+
+ section p< {
+   border: 2px solid #fabada !important;
+ }
+ h2 + p {
+ text: color #DF0101
+ }        
